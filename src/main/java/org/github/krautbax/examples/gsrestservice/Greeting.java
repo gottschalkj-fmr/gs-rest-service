@@ -1,4 +1,4 @@
-package org.github.krautbax.examples.gsrestservice;
+package com.github.krautbax.examples.gsrestservice;
 
 public class Greeting {
 
