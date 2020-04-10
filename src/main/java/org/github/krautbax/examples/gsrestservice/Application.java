@@ -1,4 +1,4 @@
-package org.github.krautbax.examples.gsrestservice;
+package com.github.krautbax.examples.gsrestservice;
 
 import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
