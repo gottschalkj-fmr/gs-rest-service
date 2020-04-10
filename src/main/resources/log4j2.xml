@@ -6,7 +6,7 @@
     </Console>
   </Appenders>
   <Loggers>
-    <Logger name="org.github.krautbax" level="info" additivity="false">
+    <Logger name="com.github.krautbax" level="info" additivity="false">
       <AppenderRef ref="Console"/>
     </Logger>
     <Logger name="org.springframework" level="info" additivity="false">
